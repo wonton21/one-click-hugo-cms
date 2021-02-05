@@ -1,7 +1,7 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/00100lrportrait_00100_burst20191124115608419_cover.jpg
 blurb:
   heading: Kaldi sucks?
   text: Kaldi is the coffee store for everyone who believes that great coffee
